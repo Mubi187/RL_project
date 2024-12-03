@@ -1,0 +1,7 @@
+#core dependencies
+jupyter
+numpy
+pandas
+matplotlib
+gym==0.23.0
+Pygame
